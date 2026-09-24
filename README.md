@@ -4,7 +4,7 @@
 
 **Pure Python 3D Parametric Coin, Medal & Relief Mesh Generator with Real-Time Web Studio & AI Agent MCP Server**
 
-[![CI Matrix](https://img.shields.io/badge/CI-Multi--OS%20%7C%20Py%203.9--3.13-success?logo=github-actions)](https://github.com/1nc0gn30/badge3d-coin-generator/actions)
+[![CI Matrix](https://img.shields.io/badge/CI-Multi--OS%20%7C%20Py%203.9--3.13-success?logo=github-actions)](https://github.com/NullAITech/badge3d-coin-generator/actions)
 [![Zero Dependencies](https://img.shields.io/badge/Dependencies-Zero%20(Pure%20Stdlib)-blue.svg)](https://docs.python.org/3/)
 [![3D Print Ready](https://img.shields.io/badge/3D%20Print-Watertight%20Manifold%20STL-orange.svg)](https://en.wikipedia.org/wiki/STL_(file_format))
 [![PBR Studio UI](https://img.shields.io/badge/Studio%20UI-Material%203%20Design-4285F4.svg)](http://localhost:8080)
@@ -81,7 +81,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/1nc0gn30/badge3d-coin-generator.git
+git clone https://github.com/NullAITech/badge3d-coin-generator.git
 cd badge3d-coin-generator
 
 # Install in editable mode

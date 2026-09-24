@@ -9,3 +9,6 @@ build/
 *.obj
 *.glb
 
+
+.env
+node_modules/
